@@ -23,6 +23,8 @@
   }
 
   .service__content {
+    vertical-align: top;
+    min-height: 585px;
     cursor: pointer;
     width: calc(99.2%/3);
     display: inline-block;
